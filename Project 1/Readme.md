@@ -1,5 +1,5 @@
 # Project 1 - Python and Rust SHA256 Hash Cracker
-
+I took the project #1 in the Rust 101 course and converted it to Python.   I also added in time considerations in both the rust and python versions of the code. I wanted to see which code would do the job of this task the fasted on the same machine.
 
 ## Results
 Rust Version: `main.rs`
